@@ -1,0 +1,16 @@
+Metric,Year 0,Year 1,Year 2,Company
+Operating revenue,8537,9233,9670,Company A
+Operating expenses,-6183.95,-6269.55,-6415.5,Company A
+EBITDA,2353.05,2963.45,3254.5,Company A
+Net interest expense,-130,-143,-148,Company A
+Taxation,198.381,201.051,202.653,Company A
+Operating revenue,8783.9,9033,9006.3,Company B
+Operating expenses,-6153,-6372,-6470,Company B
+EBITDA,2630.9,2661,2536.3,Company B
+Net interest expense,-158,-194,-189,Company B
+Taxation,-356,-341,-304.9,Company B
+Operating revenue,2362,0,0,Company X
+Operating expenses,-1795.9,0,0,Company X
+EBITDA,566.1,0,0,Company X
+Net finance expense,-27,,,Company X
+Taxation,-44.9,,,Company X
